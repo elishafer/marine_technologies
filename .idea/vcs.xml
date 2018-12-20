@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/uw_acoustics/arlpy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/uw_acoustics/at" vcs="Git" />
   </component>
 </project>
